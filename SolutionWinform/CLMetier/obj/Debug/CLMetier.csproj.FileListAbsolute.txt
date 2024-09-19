@@ -1,0 +1,6 @@
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\bin\Debug\CLMetier.dll
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\bin\Debug\CLMetier.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\obj\Debug\CLMetier.csproj.AssemblyReference.cache
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\obj\Debug\CLMetier.csproj.CoreCompileInputs.cache
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\obj\Debug\CLMetier.dll
+C:\Users\sthiry\source\repos\SolutionWinform\CLMetier\obj\Debug\CLMetier.pdb

@@ -1,0 +1,13 @@
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\bin\Debug\WindowsFormsAppTestUserControl.exe.config
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\bin\Debug\WindowsFormsAppTestUserControl.exe
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\bin\Debug\WindowsFormsAppTestUserControl.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\bin\Debug\FControlLesMiens.dll
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\bin\Debug\FControlLesMiens.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.csproj.AssemblyReference.cache
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.Properties.Resources.resources
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.csproj.GenerateResource.cache
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.csproj.CoreCompileInputs.cache
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.csproj.CopyComplete
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.exe
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\WindowsFormsAppTestUserControl\obj\Debug\WindowsFormsAppTestUserControl.Form1.resources

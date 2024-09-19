@@ -1,0 +1,8 @@
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\bin\Debug\FControlLesMiens.dll
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\bin\Debug\FControlLesMiens.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.csproj.AssemblyReference.cache
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.UCIdentification.resources
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.csproj.GenerateResource.cache
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.csproj.CoreCompileInputs.cache
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.dll
+C:\Users\sthiry\source\repos\SolutionWinform\FControlLesMiens\obj\Debug\FControlLesMiens.pdb

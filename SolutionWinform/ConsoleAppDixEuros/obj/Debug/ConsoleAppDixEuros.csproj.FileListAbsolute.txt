@@ -1,0 +1,10 @@
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\bin\Debug\ConsoleAppDixEuros.exe.config
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\bin\Debug\ConsoleAppDixEuros.exe
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\bin\Debug\ConsoleAppDixEuros.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\bin\Debug\CLMetier.dll
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\bin\Debug\CLMetier.pdb
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\obj\Debug\ConsoleAppDixEuros.csproj.AssemblyReference.cache
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\obj\Debug\ConsoleAppDixEuros.csproj.CoreCompileInputs.cache
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\obj\Debug\ConsoleAppDixEuros.csproj.CopyComplete
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\obj\Debug\ConsoleAppDixEuros.exe
+C:\Users\sthiry\source\repos\SolutionWinform\ConsoleAppDixEuros\obj\Debug\ConsoleAppDixEuros.pdb
