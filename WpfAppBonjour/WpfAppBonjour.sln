@@ -15,7 +15,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.WPF avec objet metier qui
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. WPF avec la couche ViewModel", "2. WPF avec la couche ViewModel", "{3D500981-0AA0-4347-92E5-380AD40DCE52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppViewModel", "WpfAppViewModel\WpfAppViewModel.csproj", "{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppViewModel", "WpfAppViewModel\WpfAppViewModel.csproj", "{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.WPF Controle de saisie dans ViewModel", "3.WPF Controle de saisie dans ViewModel", "{60ABB746-4BC9-42AA-AA9E-C4E7A71C6117}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppControleDeSaisiePersonne", "WpfAppControleDeSaisiePersonne\WpfAppControleDeSaisiePersonne.csproj", "{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.WPF Controle de saisie en surface", "4.WPF Controle de saisie en surface", "{56940908-6E9E-4C6E-ADE9-EF894D7B60BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppControleDeSaisieSurface", "WpfAppControleDeSaisieSurface\WpfAppControleDeSaisieSurface.csproj", "{F14A5743-E48F-4727-9427-96363E5EFC56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfLibraryBoiteOutil", "WpfLibraryBoiteOutil\WpfLibraryBoiteOutil.csproj", "{FB041092-BB53-443A-8C10-59DA136D2C59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.WPF BD First", "5.WPF BD First", "{8BAC8654-7516-426F-89FE-7F4C813E327B}"
+	ProjectSection(SolutionItems) = preProject
+		ClassLibraryBDModel\ScriptCreationTable.txt = ClassLibraryBDModel\ScriptCreationTable.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryAccesDonnes", "ClassLibraryAccesDonnes\ClassLibraryAccesDonnes.csproj", "{466B5DAE-F60A-4A52-8F58-3508FD71C41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppProduts", "WpfAppProduts\WpfAppProduts.csproj", "{A0ABDE8F-883E-4E94-B65E-96D77542FC20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +58,26 @@ Global
 		{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14A5743-E48F-4727-9427-96363E5EFC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A5743-E48F-4727-9427-96363E5EFC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A5743-E48F-4727-9427-96363E5EFC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A5743-E48F-4727-9427-96363E5EFC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB041092-BB53-443A-8C10-59DA136D2C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB041092-BB53-443A-8C10-59DA136D2C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB041092-BB53-443A-8C10-59DA136D2C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB041092-BB53-443A-8C10-59DA136D2C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466B5DAE-F60A-4A52-8F58-3508FD71C41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466B5DAE-F60A-4A52-8F58-3508FD71C41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466B5DAE-F60A-4A52-8F58-3508FD71C41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466B5DAE-F60A-4A52-8F58-3508FD71C41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0ABDE8F-883E-4E94-B65E-96D77542FC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0ABDE8F-883E-4E94-B65E-96D77542FC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0ABDE8F-883E-4E94-B65E-96D77542FC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0ABDE8F-883E-4E94-B65E-96D77542FC20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +86,11 @@ Global
 		{7060B969-C434-482A-A1FD-F8E65A05A4B4} = {C9B90AEA-CB04-43FB-AFEC-63F88797734A}
 		{E4134F50-19A3-4F31-AA15-FFB69F00E4FF} = {394B8B5B-7AFA-4185-A35D-049363CCA144}
 		{7618C748-EE98-4BFC-A920-CDF7EAF9BAAA} = {3D500981-0AA0-4347-92E5-380AD40DCE52}
+		{4C2EC375-79A5-45C7-B8AA-38CC1E9CDA77} = {60ABB746-4BC9-42AA-AA9E-C4E7A71C6117}
+		{F14A5743-E48F-4727-9427-96363E5EFC56} = {56940908-6E9E-4C6E-ADE9-EF894D7B60BB}
+		{FB041092-BB53-443A-8C10-59DA136D2C59} = {56940908-6E9E-4C6E-ADE9-EF894D7B60BB}
+		{466B5DAE-F60A-4A52-8F58-3508FD71C41F} = {8BAC8654-7516-426F-89FE-7F4C813E327B}
+		{A0ABDE8F-883E-4E94-B65E-96D77542FC20} = {8BAC8654-7516-426F-89FE-7F4C813E327B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {793E72C0-CF78-40BD-B4D4-20F3FC919BEC}

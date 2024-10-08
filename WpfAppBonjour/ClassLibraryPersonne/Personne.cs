@@ -7,7 +7,10 @@
         private string mdp;
         private int age;
 
-        public Personne(string nom, string prenom, int age,string mdp)
+        public Personne():this("","",0,"")
+        {
+        }
+            public Personne(string nom, string prenom, int age,string mdp)
         {
             this.nom = nom;
             this.prenom = prenom;
